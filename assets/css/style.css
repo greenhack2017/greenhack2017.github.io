@@ -139,3 +139,7 @@ blockquote {
 p {
   line-height: 1.5;
 }
+
+.image-row img.too-big {
+  width: 100px;
+}
